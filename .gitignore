@@ -1,2 +1,3 @@
 *.pkrvars.hcl
 *.box
+output/
