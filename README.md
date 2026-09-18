@@ -230,7 +230,3 @@ The build currently assumes a Linux cloud image that:
 4. Supports the commands used during cleanup.
 
 Different distributions may require distribution-specific cloud-init configuration or shutdown commands.
-
-## License
-
-Choose a license appropriate for the project before publishing, for example MIT.
