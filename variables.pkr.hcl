@@ -1,4 +1,4 @@
-variable "vm_name" {
+variable "box_name" {
   type = string
 }
 

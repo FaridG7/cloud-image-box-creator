@@ -1,5 +1,5 @@
 source "qemu" "cloud-image" {
-  vm_name      = var.vm_name
+  vm_name      = "build_vm"
   iso_url      = var.iso_url
   iso_checksum = var.iso_checksum
 

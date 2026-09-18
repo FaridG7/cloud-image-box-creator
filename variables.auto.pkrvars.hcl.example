@@ -1,4 +1,4 @@
-vm_name   = "changeme"
+box_name   = "changeme"
 cpus      = 4
 memory    = 4096
 disk_size = "50G"

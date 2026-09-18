@@ -19,6 +19,6 @@ build {
   }
 
   post-processor "vagrant" {
-    output = "${path.root}/output/${var.vm_name}-{{.Provider}}.box"
+    output = "${path.root}/output/${var.box_name}-{{.Provider}}.box"
   }
 }
