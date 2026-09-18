@@ -18,7 +18,7 @@ The project is designed to turn a Linux cloud image into a reusable Vagrant `.bo
 - QEMU/KVM
 - libvirt/KVM acceleration
 - `make`
-- A Linux cloud image with cloud-init support
+- A Linux cloud image with systemd & cloud-init support
 
 Verify the required tools:
 
